@@ -1,46 +1,46 @@
 # AWS WAF CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha)
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/aws-waf-captcha)
 
-Effortlessly bypass AWS WAF CAPTCHAs with Bright Data's advanced CAPTCHA-solving technology. Leverage machine-learning algorithms, [automated IP rotation](https://brightdata.com/solutions/rotating-proxies), and a robust proxy infrastructure to ensure seamless and consistent access to target sites.  
+Bright Dataの高度なCAPTCHA解決テクノロジーで、AWS WAF CAPTCHAを簡単に回避できます。機械学習アルゴリズム、[自動IPローテーション](https://brightdata.jp/solutions/rotating-proxies)、そして堅牢なプロキシインフラストラクチャを活用し、ターゲットサイトへのシームレスかつ一貫したアクセスを実現します。  
 
-Bright Data’s CAPTCHA Solver is a built-in feature of our [**Scraping Browser**](https://brightdata.com/products/scraping-browser) and [**Web Unlocker API**](https://brightdata.com/products/web-unlocker), offering a complete solution for handling even the most complex CAPTCHA challenges.  
+Bright DataのCAPTCHA Solverは、当社の[**Scraping Browser**](https://brightdata.jp/products/scraping-browser)および[**Web Unlocker API**](https://brightdata.jp/products/web-unlocker)に組み込みの機能であり、最も複雑なCAPTCHAチャレンジにも対応する完全なソリューションを提供します。  
 
 
 ## Features  
-- **Rapid CAPTCHA Solving**: Automatically solve AWS WAF CAPTCHAs with high accuracy and speed.  
-- **IP Rotation**: Avoid bans with automated retries and dynamic IP adjustments.  
-- **Browser Fingerprinting**: Mimic real user activity to [bypass sophisticated bot detection](https://brightdata.com/blog/web-data/anti-scraping-techniques).  
-- **JavaScript Rendering**: Handle dynamic content on JavaScript-heavy sites.  
-- **Worldwide Geo-Coverage**: Unlock content from any global region with pinpoint precision.  
-- **Seamless Integration**: Works effortlessly with tools like Puppeteer, Playwright, and Selenium.  
-- **Event Monitoring**: Track CAPTCHA-solving events like detection, success, or failure.  
+- **Rapid CAPTCHA Solving**: 高い精度と速度でAWS WAF CAPTCHAを自動的に解決します。  
+- **IP Rotation**: 自動リトライと動的なIP調整により、BANを回避します。  
+- **Browser Fingerprinting**: 実ユーザーの動作を模倣し、[高度なボット検知を回避](https://brightdata.jp/blog/web-data/anti-scraping-techniques)します。  
+- **JavaScript Rendering**: JavaScript主体のサイト上の動的コンテンツに対応します。  
+- **Worldwide Geo-Coverage**: ピンポイントの精度で、世界中のあらゆる地域のコンテンツをアンロックします。  
+- **Seamless Integration**: Puppeteer、Playwright、Seleniumなどのツールと簡単に連携して動作します。  
+- **Event Monitoring**: 検知、成功、失敗などのCAPTCHA解決イベントを追跡します。  
 
 ## Why Choose AWS WAF CAPTCHA Solver  
 
 ### **Trusted by 20,000+ Customers Worldwide**  
-Bright Data’s CAPTCHA Solver is trusted by developers, businesses, and enterprises for its unmatched reliability and performance.  
+Bright DataのCAPTCHA Solverは、比類のない信頼性とパフォーマンスにより、開発者、企業、エンタープライズのお客様から信頼されています。  
 
 ### **Powered by a Premium Proxy Network**  
-With over 100M IPs and advanced geo-targeting capabilities, our proxy infrastructure ensures smooth and uninterrupted CAPTCHA solving.  
+1億以上のIPと高度なジオターゲティング機能により、当社のプロキシインフラはスムーズで中断のないCAPTCHA解決を実現します。  
 
 ### **AI-Driven CAPTCHA Solving**  
-Our CAPTCHA Solver uses advanced AI-based logic to detect, analyze, and solve CAPTCHAs automatically. It handles retries, fingerprinting, and headers to bypass even the most sophisticated anti-bot measures.  
+当社のCAPTCHA Solverは、高度なAIベースのロジックを使用してCAPTCHAを自動的に検知・解析・解決します。リトライ、ブラウザフィンガープリント、ヘッダーを処理して、最も高度なアンチボット対策さえも回避します。  
 
 ### **Built for Developers**  
-- Easy integration with Puppeteer, Playwright, and Selenium.  
-- Fully customizable settings for CAPTCHA-solving behavior.  
-- Automatic retries and dynamic IP adjustments for uninterrupted scraping.
+- Puppeteer、Playwright、Seleniumとの簡単な統合。  
+- CAPTCHA解決の挙動に対する完全にカスタマイズ可能な設定。  
+- 中断のないスクレイピングのための自動リトライと動的IP調整。
 
 > **Pro Tip 💡**
->> Already have a CAPTCHA-solving setup? Enhance it with our proxies for [Puppeteer](https://brightdata.com/integration/puppeteer), [Playwright](https://brightdata.com/integration/playwright), and [Selenium](https://brightdata.com/integration/selenium) to minimize CAPTCHA challenges.
+>> すでにCAPTCHA解決のセットアップをお持ちですか？[Puppeteer](https://brightdata.jp/integration/puppeteer)、[Playwright](https://brightdata.jp/integration/playwright)、[Selenium](https://brightdata.jp/integration/selenium)向けの当社プロキシで強化し、CAPTCHAチャレンジを最小化しましょう。
 
 ## How It Works  
 
-Bright Data’s CAPTCHA Solver is integrated into the **Scraping Browser** and **Web Unlocker**, making CAPTCHA solving effortless.  
+Bright DataのCAPTCHA Solverは**Scraping Browser**と**Web Unlocker**に統合されており、CAPTCHA解決を簡単にします。  
 
 ### **Automatic CAPTCHA Solving**  
-The CAPTCHA Solver automatically detects and resolves CAPTCHAs in real-time. Simply enable the feature, and it will handle everything from detection to solving.  
+CAPTCHA SolverはCAPTCHAをリアルタイムで自動検知し、解決します。機能を有効化するだけで、検知から解決までをすべて処理します。  
 
 ### **Custom Options for AWS WAF Challenges**  
 ```javascript
@@ -102,72 +102,72 @@ try {
 ```
 
 #### Example Workflow:  
-1. **Detect CAPTCHA**: The solver identifies the CAPTCHA type (e.g., AWS WAF).  
-2. **Solve CAPTCHA**: Using AI-based logic, the solver resolves the CAPTCHA.  
-3. **Retry on Failure**: If solving fails, the system automatically retries with a new IP.  
-4. **Return Results**: Once solved, the system provides seamless access to the target site.  
+1. **Detect CAPTCHA**: ソルバーがCAPTCHAタイプ（例: AWS WAF）を識別します。  
+2. **Solve CAPTCHA**: AIベースのロジックを使用して、ソルバーがCAPTCHAを解決します。  
+3. **Retry on Failure**: 解決に失敗した場合、システムは新しいIPで自動的にリトライします。  
+4. **Return Results**: 解決後、システムはターゲットサイトへのシームレスなアクセスを提供します。  
 
 ## Supported CAPTCHA Types  
 
-Bright Data’s CAPTCHA Solver supports a wide range of CAPTCHA types, including:  
+Bright DataのCAPTCHA Solverは、以下を含む幅広いCAPTCHAタイプに対応しています。  
 
-- [**DataDome**](https://brightdata.com/products/web-unlocker/captcha-solver/datadome)
-- [**reCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/recaptcha)
-- [**Click Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/click-captcha)
-- [**Cloudflare**](https://brightdata.com/products/web-unlocker/captcha-solver/Cloudflare)
-- [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)
-- [**SimpleCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/simplecaptcha)
-- [**FunCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha)
-- [**Cloudflare Turnstile**](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)
-- [**AWS WAF Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha)
-- [**GeeTest CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha)
-- [**KeyCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/keycaptcha)
-- [**Puzzle CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/puzzle-captcha)
-- [**Yandex CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/yandex-captcha)
-- [**Image CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/image-captcha)
-- [**Text CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/text-captcha)
+- [**DataDome**](https://brightdata.jp/products/web-unlocker/captcha-solver/datadome)
+- [**reCAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/recaptcha)
+- [**Click Captcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/click-captcha)
+- [**Cloudflare**](https://brightdata.jp/products/web-unlocker/captcha-solver/Cloudflare)
+- [**PerimeterX**](https://brightdata.jp/products/web-unlocker/captcha-solver/perimeterx)
+- [**SimpleCaptcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/simplecaptcha)
+- [**FunCaptcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha)
+- [**Cloudflare Turnstile**](https://brightdata.jp/products/web-unlocker/captcha-solver/cloudflare-turnstile)
+- [**AWS WAF Captcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/aws-waf-captcha)
+- [**GeeTest CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
+- [**KeyCAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/keycaptcha)
+- [**Puzzle CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/puzzle-captcha)
+- [**Yandex CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/yandex-captcha)
+- [**Image CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/image-captcha)
+- [**Text CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/text-captcha)
 
 ## Advanced Customization  
 
-[Bright Data’s CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) allows for advanced customization to fine-tune solving logic for specific scenarios.
+[Bright DataのCAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)では、高度なカスタマイズが可能で、特定のシナリオ向けに解決ロジックを微調整できます。
 
 ## **Event Monitoring**  
-Track CAPTCHA-solving events to handle advanced use cases:  
-- `Captcha.detected`: CAPTCHA detected and solving has started.  
-- `Captcha.solveFinished`: CAPTCHA solved successfully.  
-- `Captcha.solveFailed`: CAPTCHA solving failed.  
+高度なユースケースに対応するため、CAPTCHA解決イベントを追跡します。  
+- `Captcha.detected`: CAPTCHAが検知され、解決が開始されました。  
+- `Captcha.solveFinished`: CAPTCHAの解決に成功しました。  
+- `Captcha.solveFailed`: CAPTCHAの解決に失敗しました。  
 
 ## **Pricing**
 
 | **Plan**         | **Price (1K Results)** | **Monthly Cost** | **Description**                                  |  
 |-------------------|------------------------|------------------|------------------------------------------------|  
-| **Pay-as-you-go** | $1.50                 | No commitment    | Ideal for ad-hoc scraping needs.               |  
-| **Growth**        | $1.27                 | $499             | Tailored for scaling teams.                    |  
-| **Business**      | $1.12                 | $999             | Suitable for large-scale scraping operations.  |  
-| **Premium**       | $1.05                 | $1,999           | Advanced features with priority support.       |  
-| **Enterprise**    | Custom Quote          | Contact Us       | Custom packages for top-tier business needs.   |  
+| **Pay-as-you-go** | $1.50                 | No commitment    | スポット的なスクレイピングニーズに最適です。               |  
+| **Growth**        | $1.27                 | $499             | スケールするチーム向けに最適化されています。                    |  
+| **Business**      | $1.12                 | $999             | 大規模なスクレイピング運用に適しています。  |  
+| **Premium**       | $1.05                 | $1,999           | 優先サポート付きの高度な機能です。       |  
+| **Enterprise**    | Custom Quote          | Contact Us       | 最上位のビジネス要件向けのカスタムパッケージです。   |  
 
-🚀 **SPECIAL OFFER**: Match your first deposit dollar-for-dollar up to **$500**!  
+🚀 **SPECIAL OFFER**: 初回入金額に対して最大**$500**まで、同額を上乗せします！  
 
 ## **Why Developers Love AWS WAF CAPTCHA Solver**  
-- **Easy Integration**: Works seamlessly with Puppeteer, Playwright, and Selenium.  
-- **Advanced AI-Based Logic**: Handles retries, CAPTCHA solving, fingerprinting, IP rotation, and advanced headers automatically.  
-- **Built-in Browser**: No need to manage external browsers for JavaScript rendering.  
-- **Real-Time Insights**: Monitor network performance via a live dashboard.  
-- **Unmatched Support**: 24/7 global customer support with new features added daily.  
+- **Easy Integration**: Puppeteer、Playwright、Seleniumとシームレスに連携します。  
+- **Advanced AI-Based Logic**: リトライ、CAPTCHA解決、ブラウザフィンガープリント、IPローテーション、高度なヘッダーを自動で処理します。  
+- **Built-in Browser**: JavaScriptレンダリングのために外部ブラウザを管理する必要がありません。  
+- **Real-Time Insights**: ライブダッシュボードでネットワークパフォーマンスを監視できます。  
+- **Unmatched Support**: 24/7のグローバルカスタマーサポートに加え、新機能が毎日追加されます。  
 
 ## **FAQ**  
 
 ### **How does the AWS WAF CAPTCHA solver work?**  
-The solver uses advanced AI-based logic to detect and solve AWS WAF CAPTCHAs automatically.  
+ソルバーは高度なAIベースのロジックを使用して、AWS WAF CAPTCHAを自動的に検知し解決します。  
 
 ### **Can it handle multiple CAPTCHAs simultaneously?**  
-Yes, the solution scales to handle multiple CAPTCHA types concurrently, ensuring uninterrupted access.  
+はい。このソリューションは複数のCAPTCHAタイプを同時接続で処理できるようにスケールし、中断のないアクセスを確保します。  
 
 ### **What happens if CAPTCHA solving fails?**  
-Retries are automatically attempted. If problems persist, contact our 24/7 support team to troubleshoot.  
+リトライは自動的に試行されます。問題が継続する場合は、24/7のサポートチームに連絡してトラブルシューティングしてください。  
 
 ---
 
 ## **Say Goodbye to AWS WAF CAPTCHAs**  
-Start your free trial today and experience seamless [AWS WAF CAPTCHA solving with Bright Data!](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha) 
+今すぐ無料トライアルを開始して、シームレスな[AWS WAF CAPTCHA solving with Bright Data!](https://brightdata.jp/products/web-unlocker/captcha-solver/aws-waf-captcha)を体験してください。
